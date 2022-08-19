@@ -6,3 +6,6 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [ ] Turn in GitHub Assignment
+- [ ] Finish Project 1
+- [ ] Start Project 2
